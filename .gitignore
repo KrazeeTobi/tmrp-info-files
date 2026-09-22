@@ -1,0 +1,39 @@
+c0.0.12a-dev.info
+c0.0.12a_03-200018.info
+c0.0.13a-dev.info
+c0.0.13a_03-renew.info
+c0.0.13a_03.info
+c0.0.14a_08.info
+# This gitignore only tracks real versions that currently exist in the Betacraft Launcher.
+# DO NOT MODIFY UNLESS A FILENAME CHANGES OR A NEW VERSION NOT LISTED HERE IS FOUND.
+# Authors: kurejiiTobi
+
+# Classic versions
+c0.0.15a-05311904.info
+c0.0.16a_02-081047.info
+c0.0.17a-2014.info
+c0.0.18a_02.info
+c0.0.19a_04.info
+c0.0.19a_06-0137.info
+c0.0.20a_01.info
+c0.0.20a_02.info
+c0.0.21a-2008.info
+c0.0.21a_01.info
+c0.0.22a_05.info
+c0.0.23a_01.info
+c0.24_st_03.info
+c0.25_05_st.info
+c0.27_st.info
+c0.28_01.info
+c0.29.info
+c0.29_01.info
+c0.29_02.info
+c0.30-c-1900-renew.info
+c0.30-c-1900.info
+c0.30-s-1858.info
+
+# Pre-Classic versions
+pc-132011.info
+pc-132128.info
+pc-152252.info
+pc-161148.info
