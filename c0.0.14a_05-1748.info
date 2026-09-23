@@ -1,0 +1,8 @@
+release-date:1243529293000
+compile-date:1243529293000
+launch-method:ClassicWithSaving
+launch-method-link:http://files.betacraft.uk/launcher/assets/launch-methods/1.09_16/classic_with_saving.json
+proxy-args:-Dhttp.proxyHost=betacraft.uk -Dhttp.proxyPort=11701
+macos-mousefix:true
+resize-applet:true
+file-ver:1
