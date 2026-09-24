@@ -1,0 +1,11 @@
+release-date:1244131080000
+compile-date:1244131080000
+launch-method:Classic15aWithSaving
+launch-method-link:http://files.betacraft.uk/launcher/assets/launch-methods/1.09_16/classic_15a_with_saving.json
+proxy-args:-Dhttp.proxyHost=betacraft.uk -Dhttp.proxyPort=11701
+other-name:mptest 6
+protocolVersion:15a-06041658
+macos-mousefix:true
+resize-applet:true
+do-not-get-mppass:true
+file-ver:1

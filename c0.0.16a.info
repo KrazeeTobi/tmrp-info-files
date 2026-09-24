@@ -1,0 +1,11 @@
+release-date:1244390880000
+compile-date:1244390880000
+launch-method:ClassicMpWithSaving
+launch-method-link:http://files.betacraft.uk/launcher/assets/launch-methods/1.09_16/classic_mp_with_saving.json
+proxy-args:-Dhttp.proxyHost=betacraft.uk -Dhttp.proxyPort=11701
+other-name:mptest 11
+protocolVersion:classic_3
+macos-mousefix:true
+resize-applet:true
+do-not-get-mppass:true
+file-ver:1
