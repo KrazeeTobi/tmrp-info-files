@@ -1,14 +1,20 @@
+# This gitignore only tracks real versions that currently exist in the Betacraft Launcher.
+# DO NOT MODIFY UNLESS A FILENAME CHANGES OR A NEW VERSION NOT LISTED HERE IS FOUND.
+# Authors: kurejiiTobi
+
+# Pre-Classic versions
+pc-132011.info
+pc-132128.info
+pc-152252.info
+pc-161148.info
+
+# Classic versions
 c0.0.12a-dev.info
 c0.0.12a_03-200018.info
 c0.0.13a-dev.info
 c0.0.13a_03-renew.info
 c0.0.13a_03.info
 c0.0.14a_08.info
-# This gitignore only tracks real versions that currently exist in the Betacraft Launcher.
-# DO NOT MODIFY UNLESS A FILENAME CHANGES OR A NEW VERSION NOT LISTED HERE IS FOUND.
-# Authors: kurejiiTobi
-
-# Classic versions
 c0.0.15a-05311904.info
 c0.0.16a_02-081047.info
 c0.0.17a-2014.info
@@ -32,8 +38,26 @@ c0.30-c-1900-renew.info
 c0.30-c-1900.info
 c0.30-s-1858.info
 
-# Pre-Classic versions
-pc-132011.info
-pc-132128.info
-pc-152252.info
-pc-161148.info
+# Indev versions
+in-20091223-1459.info
+in-20091231-2255.info
+in-20100104-2258.info
+in-20100110.info
+in-20100124-2310.info
+in-20100125.info
+in-20100128-2304.info
+in-20100129-1452.info
+in-20100130.info
+in-20100131-2244.info
+in-20100201-0025.info
+in-20100201-2227.info
+in-20100202-2330.info
+in-20100206-2103.info
+in-20100207-1101.info
+in-20100212-1210.info
+in-20100212-1622.info
+in-20100213.info
+in-20100214.info
+in-20100218-0016.info
+in-20100219.info
+in-20100223.info
