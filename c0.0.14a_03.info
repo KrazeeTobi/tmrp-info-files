@@ -5,5 +5,5 @@ launch-method-link:http://files.betacraft.uk/launcher/assets/launch-methods/1.09
 proxy-args:-Dhttp.proxyHost=betacraft.uk -Dhttp.proxyPort=11701
 other-name:5.27
 macos-mousefix:true
-resize-applet:true
+resize-applet:false
 file-ver:1

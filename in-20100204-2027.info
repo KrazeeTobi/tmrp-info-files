@@ -1,0 +1,7 @@
+release-date:1264977888000
+compile-date:1264977888000
+launch-method:indev
+launch-method-link:
+proxy-args:-Dhttp.proxyHost=betacraft.uk -Dhttp.proxyPort=11702
+macos-mousefix:true
+file-ver:1

@@ -4,5 +4,5 @@ launch-method:classic12a
 proxy-args:-Dhttp.proxyHost=betacraft.uk
 other-name:0.9
 macos-mousefix:true
-resize-applet:true
+resize-applet:false
 file-ver:1

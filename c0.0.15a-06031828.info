@@ -6,6 +6,6 @@ proxy-args:-Dhttp.proxyHost=betacraft.uk -Dhttp.proxyPort=11701
 other-name:mptest 3
 protocolVersion:15a-06031828
 macos-mousefix:true
-resize-applet:true
+resize-applet:false
 do-not-get-mppass:true
 file-ver:1

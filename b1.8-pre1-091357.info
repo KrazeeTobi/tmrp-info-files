@@ -1,0 +1,9 @@
+release-date:1315576893000
+compile-date:1315576676000
+url:http://files.betacraft.uk/launcher/assets/versions/b1.8-pre1-091358.jar
+launch-method:indev
+launch-method-link:
+proxy-args:-Dhttp.proxyHost=betacraft.uk -Dhttp.proxyPort=11705
+other-name:
+file-ver:1
+protocolVersion:beta_15

@@ -2,6 +2,6 @@ release-date:1261528814000
 compile-date:1261528814000
 launch-method:indev
 proxy-args:-Dhttp.proxyHost=betacraft.uk -Dhttp.proxyPort=11702
-resize-applet:true
+resize-applet:false
 macos-mousefix:true
 file-ver:1

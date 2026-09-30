@@ -3,5 +3,5 @@ compile-date:1242769550000
 launch-method:classic12a
 proxy-args:-Dhttp.proxyHost=betacraft.uk
 macos-mousefix:true
-resize-applet:true
+resize-applet:false
 file-ver:1
